@@ -23,3 +23,4 @@
 ## 备注
 
 [http://127.0.0.1:9998/sign]() 是获取逆向的sign参数的接口，详情可见另一个项目
+[jd_unidbg](https://github.com/A1anSong/jd_unidbg)
