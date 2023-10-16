@@ -1,0 +1,19 @@
+users = [
+    {
+        'name': '***',
+        'uuid': '***',
+        'client': 'android',
+        'clientVersion': '12.1.4',
+        'params': {
+            'ef': '1',
+            'ep': '{"cipher":{"uuid":"***"},"ciphertype":5}',
+        },
+        'headers': {
+            'User-Agent': 'okhttp/3.12.16;jdmall;android;version/12.1.4;build/98935;',
+            'J-E-C': '{"cipher":{"pin":"***"},"ciphertype":5}',
+        },
+        'cookies': {
+            'wskey': '***',
+        },
+    },
+]
