@@ -7,6 +7,7 @@
 对逆向感兴趣，写了这个项目，目前只是临时拼凑实现了抢购功能，自己挂着跑了一个月，并无更新计划
 
 ## 补充一个基本功能描述
+
 - 多账号管理（users.py.example自行改成users.py，有几个账号数组中就写几个）
 - 自动预约
 - 自动并发抢购
@@ -30,3 +31,7 @@
 
 [http://127.0.0.1:9998/sign]() 是获取逆向的sign参数的接口，详情可见另一个项目
 [jd_unidbg](https://github.com/A1anSong/jd_unidbg)
+
+## 联系
+
+[交流方式](https://github.com/A1anSong#wechat-qr-code)
